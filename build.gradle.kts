@@ -37,7 +37,7 @@ dependencies {
     implementation("com.squareup.okhttp3:okhttp:4.9.3")
 
     // JSON parser for handling Ollama's API responses
-    implementation("com.google.code.gson:gson:2.10.1")
+    implementation("com.google.code.gson:gson:2.11.0")
 
     // IntelliJ Platform Gradle Plugin Dependencies Extension
     intellijPlatform {
