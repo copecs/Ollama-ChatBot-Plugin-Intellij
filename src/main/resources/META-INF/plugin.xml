@@ -1,0 +1,22 @@
+<idea-plugin>
+    <id></id>
+    <name>Local ChatBot</name>
+
+    <description><![CDATA[
+    Local running chatbot directly in your IDE!
+    ]]></description>
+    <vendor email="vendor.demo@gmail.com" url="vendor.demo@gmail.com">SP</vendor>
+
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <toolWindow id="OllamaChatbot"
+                    anchor="bottom"
+                    factoryClass="OllamaChatbotToolWindowFactory"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
