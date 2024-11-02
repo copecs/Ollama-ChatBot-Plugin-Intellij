@@ -24,6 +24,13 @@ Check out the video showcase for a demonstration of the project: [Video Link]
   
 ### Project Showcase Pictures
 Here are some images from the project, displaying the plugin's interface and features.
+![Screenshot 1](screenshots/sc1.png)
+![Screenshot 2](screenshots/sc2.png)
+![Screenshot 3](screenshots/sc3.png)
+![Screenshot 4](screenshots/sc4.png)
+![Screenshot 5](screenshots/sc5.png)
+![Screenshot 6](screenshots/sc6.png)
+![Screenshot 7](screenshots/sc7.png)
 
 ## Future Improvements
 Here are some potential enhancements for future releases:
