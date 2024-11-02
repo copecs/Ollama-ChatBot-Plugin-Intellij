@@ -20,7 +20,7 @@ without leaving their development environment.
 3. Run the plugin within your JetBrains IDE to start the chatbot.
 
 ## Project Showcase
-Check out the video showcase for a demonstration of the project: [Video Link]
+Check out the video showcase for a demonstration of the project: [Video Link](https://youtu.be/GxwajvSr4wg)
   
 ### Project Showcase Pictures
 Here are some images from the project, displaying the plugin's interface and features.
