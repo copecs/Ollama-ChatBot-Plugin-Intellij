@@ -34,7 +34,7 @@ dependencies {
     testImplementation(libs.junit)
 
     // HTTP client for API requests to Ollama
-    implementation("com.squareup.okhttp3:okhttp:4.9.3")
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
 
     // JSON parser for handling Ollama's API responses
     implementation("com.google.code.gson:gson:2.10.1")
